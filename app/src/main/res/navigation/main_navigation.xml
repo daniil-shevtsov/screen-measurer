@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/fragment_a"
-        android:name="shevtsov.daniil.template.fragmenta.FragmentA"
+        android:name="shevtsov.daniil.screenmeasurer.fragmenta.FragmentA"
         tools:layout="@layout/fragment_a">
         <action
             android:id="@+id/navigate_to_b_direction"
@@ -16,7 +16,7 @@
 
     <fragment
         android:id="@+id/fragment_b"
-        android:name="shevtsov.daniil.template.fragmentb.FragmentB"
+        android:name="shevtsov.daniil.screenmeasurer.fragmentb.FragmentB"
         tools:layout="@layout/fragment_b" />
 
 </navigation>
